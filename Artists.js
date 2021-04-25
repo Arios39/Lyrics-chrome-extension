@@ -1,0 +1,1 @@
+export var Artists =["Drake","Kendrick Lamar","Playboi Carti","Dababy"]
